@@ -108,7 +108,7 @@ Attributes are single characters attached to the end of the cell, after a space.
 ```
 A1.15-"Hello" R
 B3=Date(0)+365 L
-D1-3.14159 D L
+D1-3.14159 L D
 ```
 
 ### Pseudo-ops
