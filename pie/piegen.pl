@@ -1,5 +1,8 @@
 #!/usr/bin/perl
 
+# Generates a pie chart in WSSC source of specified radius.
+# Public domain.
+
 $radius = 0+(shift @ARGV);
 die("usage: $0 radius>1\n") if ($radius < 1);
 
